@@ -1,6 +1,5 @@
-<!-- Profile Header Badges -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I’m+Zeeshan+Ahmed!;Cybersecurity+Analyst+%7C+Python+Security+Automation+%7C+Cloud+Defender;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=%F0%9F%91%8B+Hey+there%2C+I%E2%80%99m+Zeeshan+Ahmed%21;Cybersecurity+Analyst+%7C+Python+Security+Automation+%7C+Cloud+Defender;Always+Learning+%7C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">

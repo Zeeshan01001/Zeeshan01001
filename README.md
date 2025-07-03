@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/zeeshan-ahmed-9623a313a">
     <img src="https://img.shields.io/badge/LinkedIn-Zeeshan%20Ahmed-blue?logo=linkedin&style=flat-square" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Email-zeeshan01001%40protonmail.com-green?logo=gmail&style=flat-square" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-zeeshan.01001%40protonmail.com-green?logo=gmail&style=flat-square" alt="Email" />
   <img src="https://img.shields.io/badge/Location-London,%20UK-ff69b4?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=Zeeshan01001&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>

@@ -18,7 +18,7 @@
 
 ## 🎯 About Me
 
-I’m a passionate and hands-on cybersecurity professional based in London 🇬🇧 with 1+ year of practical experience in **threat detection, incident response**, and **cloud security**. Whether it’s building network scanners from scratch or configuring security tools in AWS & Azure, I’m all about solving real-world security problems through code and automation.
+I’m a passionate and hands-on cybersecurity professional based in London 🇬🇧 with 2+ year of practical experience in **threat detection, incident response**, and **cloud security**. Whether it’s building network scanners from scratch or configuring security tools in AWS & Azure, I’m all about solving real-world security problems through code and automation.
 
 - 🛡️ Currently sharpening my tools in **penetration testing**, **encryption**, and smashing through **CTFs**
 - 🧠 Always learning — from **TryHackMe**, **SANS**, and building tools in my home lab
